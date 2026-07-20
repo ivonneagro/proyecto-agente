@@ -114,7 +114,7 @@ Si el usuario te saluda, responde amablemente y brevemente.
 
 Si no es un saludo, responde únicamente utilizando la información del contexto. 
 Si la respuesta no aparece en el documento, responde exactamente: 
-'No encuentro esa información en el documento, por favor reformula tu pregunta o escribenos a soporte@atic.com.
+'No encuentro esa información en el documento, por favor reformula tu pregunta o escribenos a soporte@atic.com.'
 
 
 Contexto:
