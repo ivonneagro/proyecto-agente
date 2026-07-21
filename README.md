@@ -47,3 +47,9 @@ El agente es capaz de responder preguntas precisas como:
 "¿Puedo devolver un producto?"
 "¿A qué correo electrónico se deben enviar las consultas de privacidad?"
 "¿Cuál es el RUT de A.T.I.C.?"
+
+Ejemplos de respuestas
+El agente es capaz de entregar las siguientes respuestas:
+
+"No encuentro esa información en el documento, por favor reformula tu pregunta o escríbenos a soporte@atic.com."
+"Sí, es posible. Toda solicitud de devolución, reclamo, reposición o compensación deberá ser presentada por el cliente dentro del plazo de 7 días corridos contados desde la recepción de la mercadería. Además, cuando proceda el retracto, el producto deberá restituirse en buen estado, con sus elementos originales, salvo el deterioro propio de una revisión razonable. Las devoluciones se rigen por la Política de Devoluciones, Reclamos, Reposiciones y Notas de Crédito."
