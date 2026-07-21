@@ -44,6 +44,6 @@ streamlit run app_streamlit.py
 Ejemplos de uso
 El agente es capaz de responder preguntas precisas como:
 
-"¿Cuál es el plazo que tiene un cliente para presentar un reclamo?"
+"¿Puedo devolver un producto?"
 "¿A qué correo electrónico se deben enviar las consultas de privacidad?"
 "¿Cuál es el RUT de A.T.I.C.?"
