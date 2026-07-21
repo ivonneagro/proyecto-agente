@@ -43,5 +43,11 @@ El agente es capaz de responder preguntas precisas como:
 Ejemplos de respuestas
 El agente es capaz de entregar las siguientes respuestas:
 
-"No encuentro esa información en el documento, por favor reformula tu pregunta o escríbenos a soporte@atic.com."
+"Los requisitos para solicitar una devolución o reclamo son los siguientes:
+
+Presentar el comprobante de compra o un antecedente que permita identificar la transacción.
+El producto deberá conservar, en la medida que sea razonablemente posible, su empaque original, identificación, lote y fecha de vencimiento.
+En casos de reclamo por calidad de productos parcialmente consumidos, el cliente debe conservar una porción representativa (muestra suficiente) del producto junto con su empaque original. La aceptación de este tipo de reclamos estará sujeta a la evaluación técnica de A.T.I.C.."
+
+
 "Sí, es posible. Toda solicitud de devolución, reclamo, reposición o compensación deberá ser presentada por el cliente dentro del plazo de 7 días corridos contados desde la recepción de la mercadería. Además, cuando proceda el retracto, el producto deberá restituirse en buen estado, con sus elementos originales, salvo el deterioro propio de una revisión razonable. Las devoluciones se rigen por la Política de Devoluciones, Reclamos, Reposiciones y Notas de Crédito."
