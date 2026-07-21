@@ -19,25 +19,17 @@ Requisitos previos
 Tener instalado Python.
 Obtener una API Key gratuita de Google AI Studio.
 Pasos para ejecución local
-Clona este repositorio:
 
-Bash
+Clona el repositorio:
+git clone [https://github.com/ivonneagro/proyecto-agente.git](https://github.com/ivonneagro/proyecto-agente.git)
 
-git clone https://github.com/tu-usuario/proyecto-agente.git
 Instala las dependencias:
-
-Bash
-
 pip install -r requirements.txt
+
 Crea un archivo .env en la raíz con tu clave:
-
-Plaintext
-
 GOOGLE_API_KEY=tu_clave_aqui
+
 Ejecuta la aplicación:
-
-Bash
-
 streamlit run app_streamlit.py
 
 
@@ -45,8 +37,8 @@ Ejemplos de uso
 El agente es capaz de responder preguntas precisas como:
 
 "¿Puedo devolver un producto?"
-"¿A qué correo electrónico se deben enviar las consultas de privacidad?"
-"¿Cuál es el RUT de A.T.I.C.?"
+"¿cuales son los requisitos para solicitar la devolución?"
+"¿Qué sucede con los datos que entrego ?"
 
 Ejemplos de respuestas
 El agente es capaz de entregar las siguientes respuestas:
